@@ -1,7 +1,7 @@
 #ignore all old powerpoitns
-/Users/gracer/Google Drive/kyle_class/Burger_OpenSci_9_2016.pptx
-/Users/gracer/Google Drive/kyle_class/Burger_UNC_DocSem_OpenSci_10_2017.pptx
-/Users/gracer/Google Drive/kyle_class/Burger_UNC_OpenSci_12_2016.pptx
+Burger_OpenSci_9_2016.pptx
+Burger_UNC_DocSem_OpenSci_10_2017.pptx
+Burger_UNC_OpenSci_12_2016.pptx
 #ignore everything beginning with ~
 ~$*
 #ignore the .DS_Store
